@@ -1,0 +1,15 @@
+# Directorios
+node_modules/
+.next/
+build/
+dist/
+public/
+coverage/
+
+# Archivos
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.gitignore
+.env*
+*.log

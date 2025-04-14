@@ -90,9 +90,6 @@ module.exports = {
     '@trivago/prettier-plugin-sort-imports',
   ],
 
-  // Ignorar archivos específicos
-  ignorePatterns: ['node_modules', '.next', 'build', 'dist', 'public'],
-
   // Configuración para Tailwind CSS (si lo usas)
   tailwindConfig: './tailwind.config.js',
 
